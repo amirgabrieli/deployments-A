@@ -1,6 +1,6 @@
 # Product/Component centric structure  
 
-Navigation guidelines - [Product/Component][Target Platform][Deployment Method]
+Navigation guidelines - **path::[Component]/[Target Platform]/[Deployment Method]**
 
 Pros -
 1. Same for Aqua Enterprise and Aqua Cloud 
