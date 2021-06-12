@@ -1,6 +1,6 @@
 # Product/Component centric structure  
 
-This deployments repo structure is component/product centirc. The path guideline for the deployment tool/manifest is  **path::[Component]/[Platform]/[Method]**
+This deployments repo structure is component/product centirc. TIt uses the unified path -  ***path::[Component]/[Platform]/[Method]/<deployment manifest/tool>***
 
 Pros -
 1. Supports both Aqua Enterprise and Aqua Cloud 
