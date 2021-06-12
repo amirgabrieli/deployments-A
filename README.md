@@ -4,7 +4,7 @@ This deployments repo structure is component/product centirc. It uses the unifie
 
 Pros -
 1. Supports both Aqua Enterprise and Aqua Cloud 
-2. Lean repository - there are no duplicated directories 
+2. Lean - there are no duplicated directories 
 3. Intuitive navigation when you need to deploy a specific component
 
 Cons -
